@@ -1,0 +1,43 @@
+{
+  "name": "vue-database-manager",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "echarts": "^5.2.2",
+    "element-ui": "^2.4.5",
+    "node-sass": "^4.14.1",
+    "path": "^0.12.7",
+    "qs": "^6.10.3",
+    "screenfull": "^4.2.0",
+    "vue": "^2.6.11",
+    "vue-cookie": "^1.1.4",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.8",
+    "@vue/cli-plugin-babel": "^4.5.0",
+    "@vue/cli-plugin-eslint": "^4.5.0",
+    "@vue/cli-service": "^4.5.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-component": "^1.1.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "node-less": "^1.0.0",
+    "prettier": "^2.2.1",
+    "sass-loader": "^8.0.2",
+    "vue-cli-plugin-axios": "0.0.4",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
